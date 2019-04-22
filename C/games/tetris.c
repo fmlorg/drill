@@ -15,9 +15,13 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#ifdef __linux__
+#else
 #include <term.h>
+#endif
 #include <termios.h>
 #include <unistd.h>
+#include <string.h>
 
 void stop (char *msg);
 void console_init (void);
