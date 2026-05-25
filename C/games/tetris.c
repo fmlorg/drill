@@ -4,7 +4,7 @@
  *          All right reserved.
  *
  * you can redistribute it and/or modify
- * it under the terms of CC4.0 BY-SA-NC.
+ * it under the terms of CC BY-NC-SA 4.0.
  * See the file ../../LICENSE for more details.
  *
  * 【C言語の発展課題用】テトリスのテンプレート
