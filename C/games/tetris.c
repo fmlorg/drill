@@ -1,10 +1,10 @@
 /* -*- coding:utf-8 -*-
  *
- * Copyright (C) 2018 Ken'ichi Fukamachi <fukachan@fml.org>
+ * Copyright (C) 2018,2026 Ken'ichi Fukamachi <fukachan@fml.org>
  *          All right reserved.
  *
  * you can redistribute it and/or modify
- * it under the terms of GNU General Public License v3.
+ * it under the terms of CC4.0 BY-SA-NC.
  * See the file ../../LICENSE for more details.
  *
  * 【C言語の発展課題用】テトリスのテンプレート
